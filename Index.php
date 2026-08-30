@@ -5,7 +5,7 @@
 <?php
 echo 'My first PHP script!';
 echo phpversion();
-echo phpversion(One);
+//echo phpversion(One);
 ?> 
 
 </body>
