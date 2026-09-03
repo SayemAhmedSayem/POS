@@ -3,9 +3,8 @@
 <body>
 
 <?php
-echo 'My first PHP script!';
-echo phpversion();
-//echo phpversion(One);
+ECHO 'Hello World!<br>';
+echo 'Hello World!<br>';
 ?> 
 
 </body>
