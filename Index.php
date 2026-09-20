@@ -6,11 +6,15 @@
 
 <?php
 // Output welcome message
-echo 'Welcome Home!';
+/*echo 'Welcome Home!';
 echo 'Welcome Home!'; // Output welcome message
 $color = "red";
 echo "My car is $color<br>";
-echo "My house is $COLOR";
+echo "My house is $COLOR";*/
+
+/* The next statement will
+print a welcome message */
+echo 'Welcome Home!';
 ?>
 
 </body>
