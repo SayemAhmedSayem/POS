@@ -15,6 +15,9 @@ echo "My house is $COLOR";*/
 /* The next statement will
 print a welcome message */
 echo 'Welcome Home!';
+$x = 5 /* + 15 */ + 5;
+echo $x;
+
 ?>
 
 </body>
