@@ -18,6 +18,8 @@ echo 'Welcome Home!';
 $x = 5 /* + 15 */ + 5;
 echo $x;
 
+$txt = "W3Schools.com";
+echo "I love $txt!";
 ?>
 
 </body>
