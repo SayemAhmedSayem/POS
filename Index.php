@@ -14,12 +14,17 @@ echo "My house is $COLOR";*/
 
 /* The next statement will
 print a welcome message */
+/*
 echo 'Welcome Home!';
 $x = 5 /* + 15 */ + 5;
-echo $x;
+echo $x;*/
 
-$txt = "W3Schools.com";
-echo "I love $txt!";
+/*$txt = "W3Schools.com";
+echo "I love $txt!";*/
+
+$x = 5;
+$y = 4;
+echo $x + $y;
 ?>
 
 </body>
